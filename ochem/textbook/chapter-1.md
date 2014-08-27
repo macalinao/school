@@ -26,7 +26,7 @@
   * Higher in estimated energy because it has charge separation, fewer bonds, and a positive carbon without an octet
   * Explains why the C=O bond on formaldehyde is very polar, with partial positive on carbon
 
- ### Resonance rules
+### Resonance rules
 
 1. All the resonance structures must be valid Lewis structures for the compounds.
 2. Only the placement of the electrons may be shifted from one structure to the other.
@@ -40,3 +40,16 @@
 2. As many bonds as possible
 3. Any negative charges on electronegative atoms
 4. As little charge separation as possible
+
+## Structural Formulas
+* Show which atoms are bonded to which
+* Two types -- Lewis and Condensed
+* Condensed - written without showing all of the individual bonds
+
+## Line-Angle Formulas
+* Easy.
+
+## Molecular Formulas and Empirical Formulas
+* molecular formula -- number of atoms of each element in one molecule of the compounds
+* empirical formula -- the relative rations of the elements present
+
