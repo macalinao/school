@@ -10,4 +10,4 @@
 * 1s orbital is spherically symetrical and normally represented by a circle
 * Node -- where the displacement is always zero
 * Out of phase -- when the waves are unsynchronized
-*
+* 
