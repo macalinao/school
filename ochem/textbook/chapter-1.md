@@ -53,3 +53,31 @@
 * molecular formula -- number of atoms of each element in one molecule of the compounds
 * empirical formula -- the relative rations of the elements present
 
+## Arrhenius acids and bases
+* Acids dissociate in water to give hydronium ions.
+* Bases dissociate in water to give hydroxide ions.
+
+Kw = [H3O+][-OH] = 1E-14 M^2
+
+## Bronsted-Lowry Acids and Bases
+* Acid donates a proton
+* Base accepts a proton
+
+Conjugate acids and bases -- important concept.
+
+### Acid Strength
+Ka is the acid-dissociation constant , and its value indicates the relative strength of the acid.
+
+### Structural effects on acidity
+* Electronegativity positively correlates with acidity
+* Size positively correlates with acidity
+* Resonance stabilization
+* Inductive effect -- electron-withdrawing atoms and groups can also stabilize a conjugate base via sigma bonds
+  * Adding a chlorine atom to butanoic acid increases its acidity, for example
+
+## Lewis Acids and Bases
+* Acid accepts electrons -- electrophile
+* Base donates electrons -- nucleophile
+
+**curved-arrow formalism** shows the flow of an electron pair from the electron *donor to acceptor*.
+
