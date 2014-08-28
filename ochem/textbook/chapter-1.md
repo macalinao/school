@@ -63,7 +63,12 @@ Kw = [H3O+][-OH] = 1E-14 M^2
 * Acid donates a proton
 * Base accepts a proton
 
-Conjugate acids and bases -- important concept.
+Generally:
+* The stronger an acid, the weaker its conjugate base.
+* The weaker an acid, the stronger its conjugate base.
+* Acid-base reactions favor the weaker acid and the weaker base.
+
+Resonance stabilizes molecules, so the proton will bond to the atom that gives the molecule more resonance structures.
 
 ### Acid Strength
 Ka is the acid-dissociation constant , and its value indicates the relative strength of the acid.
@@ -74,10 +79,15 @@ Ka is the acid-dissociation constant , and its value indicates the relative stre
 * Resonance stabilization
 * Inductive effect -- electron-withdrawing atoms and groups can also stabilize a conjugate base via sigma bonds
   * Adding a chlorine atom to butanoic acid increases its acidity, for example
+  * The closer the electronegative atom is bonded to the acid group, the lower the pKa.
+  * Stabilizes the conjugate base
+  * Stronger electron-withdrawing groups also stabilize the anion of the conjugate base, e.g. pKa of Cl > pKa of Cl3
 
 ## Lewis Acids and Bases
 * Acid accepts electrons -- electrophile
 * Base donates electrons -- nucleophile
+* "phile" terminology is used for bond formation
 
-**curved-arrow formalism** shows the flow of an electron pair from the electron *donor to acceptor*.
+* **Curved-arrow formalism** shows the flow of an electron pair from the electron *donor to acceptor*.
+
 
