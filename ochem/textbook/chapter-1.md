@@ -63,7 +63,10 @@ Kw = [H3O+][-OH] = 1E-14 M^2
 * Acid donates a proton
 * Base accepts a proton
 
-Conjugate acids and bases -- important concept.
+Generally:
+* The stronger an acid, the weaker its conjugate base.
+* The weaker an acid, the stronger its conjugate base.
+* Acid-base reactions favor the weaker acid and the weaker base.
 
 ### Acid Strength
 Ka is the acid-dissociation constant , and its value indicates the relative strength of the acid.
