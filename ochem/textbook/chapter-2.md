@@ -179,3 +179,41 @@ Pretty simple. Just do the practive problems.
   * Water molecules must form a cavity around the nonpolar molecule
   * Would cause a rigid, ice-like structure to form around the cavity for the nonpolar molecule
   * Would result in a decrease in entropy and a positive change in Gibbs free energy -- not good
+
+## Hydrocarbons
+* **Hydrocarbons** -- compounds composed entirely of carbon and hydrogen
+* alkanes, alkenes, alkynes, and aromatic hydrocarbons -- types
+
+### Alkanes
+* Hydrocarbons that contain only single bonds
+* Meth, eth, pro, but, pent, hex, hept, oct, non, dec -- prefixes for # of carbons
+* **Cycloalkanes** -- alkanes in the form of a ring, e.g. cyclopentane
+* **Functional group** -- the part of the molecule where reactions usually occur
+* **Alkyl group** -- alkane portion of a molecule, with one hydrogen atom removed to allow bonding to the rest of the molecule
+
+### Alkenes
+* Hydrocarbons that contain carbon-carbon double bonds
+* Double bond is the most reactive part of the alkene, so it is the *functional group* of the alkene
+* End in the -ene suffix
+* The chain is numbered to indicate the position of the double bond if the double bond could be in multiple places
+* E.g. but-1-ene is CH2=CH-CH2-CH3
+* Many allow geometric isomerism due to the non-rotational nature of carbon-carbon double bonds
+* Cycloalkenes are also common -- always the cis isomers unless the rings are very large
+  * Assumed to be cis
+  * Trans is a prefix, e,g, trans-cyclodecene
+ 
+### Alkynes
+* Hydrocarbons with carbon-carbon triple bonds as their functional group
+* Generally have the -yne suffix
+* No possibility of gemoetric isomerism, as triple bonds are linear
+* Again, they are numbered based on the carbon on which the triple bond is placed, e.g. but-1-yne
+
+### Aromatic Hydrocarbons
+* Also called **arenes**
+* Not considered to be alkenes despite being drawn as cycloalkenes
+* All derivatives of benzene, a 6-membered ring with 3 double bonds
+* Bonding arrangement is stable
+* Methyl or ethyl group reduces toxicity because enzymes can oxidize the methyl or ethyl group
+* Generic alkyl group is represented by R
+* Generic aryl group is represented by Ar. -- aryl is a group derived from an aromatic ring
+* A phenyl group, the simplest aryl group (just a benzene ring), is represented by Ph
