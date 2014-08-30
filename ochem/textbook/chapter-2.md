@@ -93,3 +93,16 @@ Pretty simple. Just do the practive problems.
 * Ethylene, for example, is very rigid
 * Pi bonds need overlap, and twisting one of the CH2 groups in ethylene loses the overlap
 * P orbitals cannot overlap when the two ends of the molecule are at right angles, so the pi bond is broken in this geometery.
+
+## Isomerism
+* **Isomers** -- different compounds with the same molecular formula
+* **Constitutional (structural) isomers** -- differ in their bonding sequence; atoms are connected differently
+  * Can differ in branching of carbon chain
+  * Can also differ in the position of a double bond or other group or by having a ring or some other feature
+* **Stereoisomers** -- Differ only in how their atoms are oriented in space
+  * Atoms are bonded in the same order
+  * Differ in the spatial orientation of the groups attached to the double bond
+  * **Stereochemistry** -- the study of the structure and chemistry of stereoisomers
+  * **Cis-trans (geometric) isomers** -- differ in the geometry of the groups on a double bond; a type of stereoisomer
+    * as in, the chains are flipped across a multiple bond
+    * There must be two different groups on each end of the double bond -- a hydrogen on each side of the double bond does not count if it is flipped
