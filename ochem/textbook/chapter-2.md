@@ -127,3 +127,31 @@ Pretty simple. Just do the practive problems.
 * C-H bonds are pretty much nonpolar -- dipole moment is insignificant
 * Tetrahedral symmetry of CCl4 causes the dipole moments to cancel
 * Lone pairs contribute to dipole moments as well
+
+## Intermolecular forces
+
+### Dipole-Dipole Forces
+* attractive intermolecular forces resulting from the attraction of the positive and negative ends of the dipole moments of polar molecules
+* results in larger heats of vaporization and higher boiling points for strongly polar compounds
+
+### London Dispersion Force
+* Principal attractive force in nonpolar molecules
+* One of the **van der Waals forces**
+* Arises from temporary dipole moments induced in a molecule by other nearby molecules
+* Electrons are not always evenly distributed even though there is no permanent dipole moment (nonpolar)
+* Small dipole moment is induced when one molecule approaches a non-symmetrical electron-wise molecule
+* There is a slight displacement of electrons so an attractive dipole-dipole interaction results
+* Dipole interactions last a fraction of a second, but the net force is attractive
+* Proportional to the molecular surface area -- depends on close surface contact of two molecules
+* CCl4 has a greater surface area than CCl3H (chloroform), so the London dispersion forces are stronger
+* **Isomers** with larger surface area have the higher boiling points
+
+### Hydrogen Bonding
+* Not a true bond, but a very strong dipole-dipole interaction
+* Applies to O-H, N-H, and H-F (inorganic) bonds
+* Strongly polar bonds, leaving hydrogen with a partial positive charge
+* Much weaker than a normal C-H, N-H, or O-H covalent bond
+* Breaking a hydrogen bond requires about 20 kJ/mol, as opposed to 400kJ/mol for a C-H/N-H/O-H bond
+* Has a large effect on physical properties of compounds -- greatly increases boiling point (dimethyl ether vs ethanol)
+* Alcohols form stronger hydrogen bonds than amines, due to oxygen being more electronegative than nitrogen
+
