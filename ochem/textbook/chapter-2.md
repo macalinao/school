@@ -155,3 +155,27 @@ Pretty simple. Just do the practive problems.
 * Has a large effect on physical properties of compounds -- greatly increases boiling point (dimethyl ether vs ethanol)
 * Alcohols form stronger hydrogen bonds than amines, due to oxygen being more electronegative than nitrogen
 
+## Polarity Effects on Solubilities
+* "Like dissolves like" -- polar dissolves in polar and nonpolar dissolves in nonpolar
+* Polar solute in polar solvent
+  * Polar solvent solvates ions -- separates them
+  * Solvation process is called hydration
+  * Example: water and NaCl
+  * Oxygen atoms approach the positively charged sodium ions
+  * Water's hydrogen atoms approach the negatively charged chloride ions
+  * Large amount of energy is **released** when sodium and chloride ions are hydrated -- overcomes the lattice energy of the crystal
+  * Salt dissolves due to solvation and increase in entropy
+* Polar solute in nonpolar solvent
+  * Does not dissolve
+  * Nonpolar molecules do not solvate ions very strongly and cannot overcome the lattice energy
+  * Attractions of the ions are much greater than the attractions for the solvent
+* Nonpolar solute in nonpolar solvent
+  * Paraffin "wax" dissolves in gasoline
+  * Mixtures of nonpolar hydrocarbons
+  * van der Waals attractions of a substance are overcome by van der Waals attractions with the solvent
+  * Large increase in entropy
+* Nonpolar solute in a polar solvent
+  * The polar molecules are strongly attracted to each other
+  * Water molecules must form a cavity around the nonpolar molecule
+  * Would cause a rigid, ice-like structure to form around the cavity for the nonpolar molecule
+  * Would result in a decrease in entropy and a positive change in Gibbs free energy -- not good
