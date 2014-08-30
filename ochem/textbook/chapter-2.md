@@ -106,3 +106,24 @@ Pretty simple. Just do the practive problems.
   * **Cis-trans (geometric) isomers** -- differ in the geometry of the groups on a double bond; a type of stereoisomer
     * as in, the chains are flipped across a multiple bond
     * There must be two different groups on each end of the double bond -- a hydrogen on each side of the double bond does not count if it is flipped
+
+## Polarity of Bonds and Molecules
+
+### Bond Dipole Moments
+* mu (bond dipole moment) = delta (amount of charge at either end of the dipole) x d (distance between the charges)
+* **Debye** -- unit of dipole moment, where 1 debye = 3.34x10^-30 coulomb meters
+* If a proton and electron were 1 angstrom apart, the dipole moment would be:
+  * mu = 1.60x10^-19 coulomb * 10^-10 meter = 1.60*10^-29 coulomb meter
+  * in debyes, 4.8 D
+* A simple rule of thumb: mu = 4.8 x delta (electron charge) x d (in angstroms)
+* In organic compounds, bond dipole moments range from zero in symmetrical bonds to about 3.6D for the C-N triple bond
+
+### Molecular Dipole Moments
+* **Molecular dipole moment** -- dipole moment of the molecule taken as a whole
+* Good indicator of a molecule's overall polarity
+* Can be measured directly, in contrast to bond dipole moments which are estimated by comparing various compounds
+* Equal to the vector sum of the individual bond dipole moments -- reflects magnitude and direction
+* Formaldehyde has a strongly polar C=O bond, and CO2 has two, but CO2 is non polar due to the symmetry of the molecule
+* C-H bonds are pretty much nonpolar -- dipole moment is insignificant
+* Tetrahedral symmetry of CCl4 causes the dipole moments to cancel
+* Lone pairs contribute to dipole moments as well
