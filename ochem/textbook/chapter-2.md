@@ -217,3 +217,30 @@ Pretty simple. Just do the practive problems.
 * Generic alkyl group is represented by R
 * Generic aryl group is represented by Ar. -- aryl is a group derived from an aromatic ring
 * A phenyl group, the simplest aryl group (just a benzene ring), is represented by Ph
+
+## Organic Compounds Containing Oxygen
+
+### Alcohols
+* Contain a hydroxyl group as the functional group (R-OH)
+* Among the most polar organic compounds due to the hydroxyl group which can participate in hydrogen bonding
+* **Miscible** -- soluble in all proportions
+* Ethanol an dmethanol are miscible
+* Names end in the -ol suffix from the word "alcohol"
+* Some of the most common organic compounds
+
+### Ethers
+* Composed of two alkyl groups bonded to an oxygen atom (R-O-R')
+* Much more polar than hydrocarbons, but ethers cannot hydrogen bond with themselves due to a lack of an OH group
+* Formed from the names of the alkyl groups and the word "ether", e.g. "Diethyl ether" or "Methyl tert-butyl ether"
+
+### Aldehydes and Ketones
+* **Carbonyl group** - C=O, functioan group for both aldehydes and ketones
+* **Ketone** -- two alkyl groups bonded to the carbonyl group
+* **Aldehyde** -- one alyl group and a hydrogen atom bonded to the carbonyl group
+* Ketones have the -one suffix
+* Aldehydes have the -al or -aldehyde suffix
+* Can form hydrogen bonds via the oxygen
+
+### Carboxylic Acids
+* **Carboxyl group** -- COOH
+* Formula for a carboxylic acid is R-COOH
