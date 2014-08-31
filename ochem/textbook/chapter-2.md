@@ -224,7 +224,7 @@ Pretty simple. Just do the practive problems.
 * Contain a hydroxyl group as the functional group (R-OH)
 * Among the most polar organic compounds due to the hydroxyl group which can participate in hydrogen bonding
 * **Miscible** -- soluble in all proportions
-* Ethanol an dmethanol are miscible
+* Ethanol and methanol are miscible
 * Names end in the -ol suffix from the word "alcohol"
 * Some of the most common organic compounds
 
@@ -244,3 +244,37 @@ Pretty simple. Just do the practive problems.
 ### Carboxylic Acids
 * **Carboxyl group** -- COOH
 * Formula for a carboxylic acid is R-COOH
+* Use the -oic acid suffix
+* Legacy names: Formic acid was from ants, and acetic acid was from vinegar. Propionic acid has to do with cheese, and butyric acid provides the aroma of rancid butter.
+  * This is where we get the prop- and but- prefixes
+* Carboxylic acids are strongly polar
+* Relatively soluble in water
+
+### Carboxylic Acid Derivatives
+Derived from carboxylic acid (converted), can be converted back by acidic or basic hydrolysis
+
+* **Acid chlorides** -- R - Carbonyl - Cl
+* **Esters** -- R-Carbonyl-O-R'
+* **Amides** -- R-Carbonyl-NH2
+
+## Organic Compounds Containing Nitrogen
+
+### Amines
+* **Amines** -- alkylated derivatives of ammonia
+* Basic (alkaline)
+* Naturally occuring ones are often called alkaloids
+* Amines are named by naming the alkyl groups bonded to nitrogen and adding the word "amine"
+
+### Amides
+* Acid derivatives that result from a combination of an acid with ammonia or an amine
+* Proteins are long-chain, complex amides
+* R-Carbonyl-NH2 or R-Carbonyl-NHR' or R-Carbonyl-NR'2
+* Among the most stable acid derivatives
+* Very weak bases -- Oxygen is more electronegative than nitrogen so the carbonyl makes it acidic
+* Form particularly strong hydrogen bonds -- high melting and boiling points
+* N-H strongly polarized -- creates very strong hydrogen bonds with the carbonyl oxygen that carries a partial negative charge in the polarized resonance form
+* Very strong intermolecular hydrogen bonding
+
+### Nitriles
+* **Nitrile** -- compound containing the cyano group, -C(Triple)N
+* Cyano group is an example of sp hybridized bonding
