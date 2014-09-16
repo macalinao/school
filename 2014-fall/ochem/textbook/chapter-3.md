@@ -19,7 +19,9 @@
   * Rule 1: find the longest continuous chain of carbon atoms: this is the base name of the compound
     * **substituents** -- groups attached to the maintain, substituted in place of a hydrogen atom on the main chain
     * Choose the chain with the least substituents
-    * Number from the end nearest the branch so the numbers of the carbons will be as low as possible
+  * Rule 2: Number from the end nearest the branch so the numbers of the carbons will be as low as possible
+  * Rule 3: Name the alkyl groups
+  * Rule 4: Organize multiple groups like di- tri- etc
 
 ## Physical Properties of Alkanes
 * Hydrophobic
