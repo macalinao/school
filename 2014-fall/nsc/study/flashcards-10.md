@@ -91,4 +91,3 @@ Energy required to fuel the brain/body and maintain temperature. 75% of energy e
 ### Gastric bypass surgery
 Reduces ghrelin and increased PYY and GLP-1, reducing hunger
 
-
